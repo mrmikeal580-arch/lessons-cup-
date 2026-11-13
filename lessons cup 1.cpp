@@ -12,7 +12,7 @@ int main()
     cout << "score: " << score << endl;
 
 
-    double grade = 18.5
+    double grade = 18.5;
     cout << "double grade: " << grade << endl;
 
 
