@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -18,12 +17,12 @@ int main()
     cin >> b;
 
 
-    cout << "Enter your third: " << endl;
+    cout << "Enter your third number: " << endl;
     cin >> c;
 
 
     cout << "sum = " << a + b + c << endl;
-    cout << "average = " << a + b + c /3 << endl;
+    cout << "average = " << (a + b + c) /3 << endl;
 
 
     return 0;
