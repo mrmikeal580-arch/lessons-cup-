@@ -17,12 +17,6 @@ int main()
     cin >> b;
 
 
-    cout << "a + b" << endl;
-    cout << "a - b" << endl;
-    cout << "a * b" << endl;
-    cout << "a / b" << endl;
-
-
     cout << "sum = " << a + b << endl;
     cout << "subtraction = " << a - b << endl;
     cout << "multiplication = " << a * b << endl;
