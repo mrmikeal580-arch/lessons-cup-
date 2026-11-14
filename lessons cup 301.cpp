@@ -17,6 +17,10 @@ int main()
     cin >> age;
 
 
+    cout << "your is name: " << name << endl;
+    cout << "your is age:  " << age << endl;
+
+
     return 0;
 
 }
