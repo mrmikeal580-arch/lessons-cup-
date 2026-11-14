@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -13,7 +12,7 @@ int main()
     cin >> a;
 
 
-    cout << "Enter Your Two Number: " << endl;
+    cout << "Enter Your Second Number: " << endl;
     cin >> b;
 
 
